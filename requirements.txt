@@ -1,7 +1,8 @@
 fastapi
 uvicorn
+torch
 easyocr
-ultralytics
-PyMuPDF
 opencv-python-headless
+ultralytics
+pymupdf
 python-multipart
