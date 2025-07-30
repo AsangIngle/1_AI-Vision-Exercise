@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+easyocr
+ultralytics
+PyMuPDF
+opencv-python-headless
+python-multipart

@@ -1,0 +1,13 @@
+train: C:/LLM_task/AI_Vision_exe/Light detection.v1i.yolov8 (2)/train/images
+val: C:/LLM_task/AI_Vision_exe/Light detection.v1i.yolov8 (2)/valid/images
+test: C:/LLM_task/AI_Vision_exe/Light detection.v1i.yolov8 (2)/test/images
+
+nc: 1
+names: ['Emergency Light']
+
+roboflow:
+  workspace: accident-w844b
+  project: light-detection-meyrn
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/accident-w844b/light-detection-meyrn/dataset/1
